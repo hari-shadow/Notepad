@@ -2,6 +2,8 @@
 
 A simple Java-based Notepad application with essential text editing features. This application provides a basic graphical user interface (GUI) for text editing and file management.
 
+![Application Screenshot](images/screenshot.png)
+
 ## Features
 
 - **New**: Create a new document.
